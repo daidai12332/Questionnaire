@@ -1,4 +1,4 @@
-##動態問卷(前端)
+## 動態問卷(前端)
 
 前台搜尋頁
 
@@ -22,7 +22,7 @@
 
 ![image](https://github.com/daidai12332/Questionnaire/blob/main/img/%E5%9B%9E%E7%AD%94%E7%B5%B1%E8%A8%88(%E7%B0%A1%E7%AD%94).png)
 
-##後台搜尋頁
+## 後台搜尋頁
 
 會顯示尚未發布的問卷資訊
 (每十筆資料一頁)
