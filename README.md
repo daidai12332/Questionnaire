@@ -20,6 +20,8 @@
 
 #後台搜尋頁
 
+(每十筆資料一頁)
+
 ![image](https://github.com/daidai12332/Questionnaire/blob/main/img/%E5%BE%8C%E5%8F%B0%E6%90%9C%E5%B0%8B%E9%A0%81.png)
 
 #新增問卷
