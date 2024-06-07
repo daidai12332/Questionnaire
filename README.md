@@ -9,6 +9,7 @@
 ![image](https://github.com/daidai12332/Questionnaire/blob/main/img/%E5%95%8F%E5%8D%B7%E5%A1%AB%E5%AF%AB.png)
 
 若沒有填必填資訊會跳出警告
+
 ![image](https://github.com/daidai12332/Questionnaire/blob/main/img2/%E9%98%B2%E5%91%86.png)
 
 
